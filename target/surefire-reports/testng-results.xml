@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="1" ignored="1" total="15" passed="13" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-13T09:36:42 IST" name="Suite" finished-at="2024-09-13T09:48:18 IST" duration-ms="696459">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T09:36:42 IST" name="Test" finished-at="2024-09-13T09:48:18 IST" duration-ms="696459">
+      <class name="amazon_test.Test5_SearchProduct">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test5_SearchProduct@6340e5f0]" started-at="2024-09-13T09:44:32 IST" name="launch_browser" finished-at="2024-09-13T09:44:39 IST" duration-ms="6651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="searching_the_product()[pri:0, instance:amazon_test.Test5_SearchProduct@6340e5f0]" started-at="2024-09-13T09:44:39 IST" name="searching_the_product" finished-at="2024-09-13T09:44:45 IST" duration-ms="6495" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searching_the_product -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test5_SearchProduct@6340e5f0]" started-at="2024-09-13T09:44:46 IST" name="quit_browser" finished-at="2024-09-13T09:44:56 IST" duration-ms="10854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test5_SearchProduct -->
+      <class name="amazon_test.Test8_SortByFeature">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test8_SortByFeature@6574a52c]" started-at="2024-09-13T09:47:51 IST" name="launch_browser" finished-at="2024-09-13T09:48:02 IST" duration-ms="10575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="sort_product_by()[pri:0, instance:amazon_test.Test8_SortByFeature@6574a52c]" started-at="2024-09-13T09:48:02 IST" name="sort_product_by" finished-at="2024-09-13T09:48:08 IST" duration-ms="5718" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sort_product_by -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test8_SortByFeature@6574a52c]" started-at="2024-09-13T09:48:08 IST" name="quit_browser" finished-at="2024-09-13T09:48:18 IST" duration-ms="10440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test8_SortByFeature -->
+      <class name="amazon_test.Test11_ValidateCheckout">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test11_ValidateCheckout@2794eab6]" started-at="2024-09-13T09:42:48 IST" name="launch_browser" finished-at="2024-09-13T09:42:58 IST" duration-ms="10351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="validating_select_address_paymethod_revieworder()[pri:0, instance:amazon_test.Test11_ValidateCheckout@2794eab6]" started-at="2024-09-13T09:42:58 IST" name="validating_select_address_paymethod_revieworder" finished-at="2024-09-13T09:44:21 IST" duration-ms="83238" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validating_select_address_paymethod_revieworder -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test11_ValidateCheckout@2794eab6]" started-at="2024-09-13T09:44:22 IST" name="quit_browser" finished-at="2024-09-13T09:44:32 IST" duration-ms="10597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test11_ValidateCheckout -->
+      <class name="amazon_test.Test4_EditProfileinfo">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test4_EditProfileinfo@41a0aa7d]" started-at="2024-09-13T09:41:54 IST" name="launch_browser" finished-at="2024-09-13T09:42:05 IST" duration-ms="10786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="edit_profile_details()[pri:0, instance:amazon_test.Test4_EditProfileinfo@41a0aa7d]" started-at="2024-09-13T09:42:05 IST" name="edit_profile_details" finished-at="2024-09-13T09:42:36 IST" duration-ms="31269" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- edit_profile_details -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test4_EditProfileinfo@41a0aa7d]" started-at="2024-09-13T09:42:37 IST" name="quit_browser" finished-at="2024-09-13T09:42:48 IST" duration-ms="11199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test4_EditProfileinfo -->
+      <class name="amazon_test.Test12_SelectEachPaymentMethod">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test12_SelectEachPaymentMethod@4b45a2f5]" started-at="2024-09-13T09:39:33 IST" name="launch_browser" finished-at="2024-09-13T09:39:44 IST" duration-ms="10313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="selecting_each_payemntmethod()[pri:0, instance:amazon_test.Test12_SelectEachPaymentMethod@4b45a2f5]" started-at="2024-09-13T09:39:44 IST" name="selecting_each_payemntmethod" finished-at="2024-09-13T09:40:16 IST" duration-ms="32084" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selecting_each_payemntmethod -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test12_SelectEachPaymentMethod@4b45a2f5]" started-at="2024-09-13T09:40:16 IST" name="quit_browser" finished-at="2024-09-13T09:40:26 IST" duration-ms="10473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test12_SelectEachPaymentMethod -->
+      <class name="amazon_test.Test9_AddtoCart">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test9_AddtoCart@45099dd3]" started-at="2024-09-13T09:44:56 IST" name="launch_browser" finished-at="2024-09-13T09:45:12 IST" duration-ms="15032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="add_product_to_cart()[pri:0, instance:amazon_test.Test9_AddtoCart@45099dd3]" started-at="2024-09-13T09:45:12 IST" name="add_product_to_cart" finished-at="2024-09-13T09:45:59 IST" duration-ms="47923" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- add_product_to_cart -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test9_AddtoCart@45099dd3]" started-at="2024-09-13T09:46:00 IST" name="quit_browser" finished-at="2024-09-13T09:46:10 IST" duration-ms="10445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test9_AddtoCart -->
+      <class name="amazon_test.Test2_Login">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test2_Login@38cee291]" started-at="2024-09-13T09:38:45 IST" name="launch_browser" finished-at="2024-09-13T09:39:00 IST" duration-ms="14341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="Login_to_Amazon()[pri:0, instance:amazon_test.Test2_Login@38cee291]" started-at="2024-09-13T09:39:00 IST" name="Login_to_Amazon" finished-at="2024-09-13T09:39:05 IST" duration-ms="4989" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login_to_Amazon -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test2_Login@38cee291]" started-at="2024-09-13T09:39:23 IST" name="quit_browser" finished-at="2024-09-13T09:39:33 IST" duration-ms="10435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test2_Login -->
+      <class name="amazon_test.Test15_ReachCart_WithouLogin">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test15_ReachCart_WithouLogin@791f145a]" started-at="2024-09-13T09:37:55 IST" name="launch_browser" finished-at="2024-09-13T09:38:07 IST" duration-ms="12336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="ReachingCart_WithoutLogin()[pri:0, instance:amazon_test.Test15_ReachCart_WithouLogin@791f145a]" started-at="2024-09-13T09:38:07 IST" name="ReachingCart_WithoutLogin" finished-at="2024-09-13T09:38:35 IST" duration-ms="27669" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReachingCart_WithoutLogin -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test15_ReachCart_WithouLogin@791f145a]" started-at="2024-09-13T09:38:35 IST" name="quit_browser" finished-at="2024-09-13T09:38:45 IST" duration-ms="10472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test15_ReachCart_WithouLogin -->
+      <class name="amazon_test.Test10_AddRemoveProductFromCart">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test10_AddRemoveProductFromCart@13e344d]" started-at="2024-09-13T09:46:10 IST" name="launch_browser" finished-at="2024-09-13T09:46:20 IST" duration-ms="9776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="updating_productquantityincart()[pri:0, instance:amazon_test.Test10_AddRemoveProductFromCart@13e344d]" started-at="2024-09-13T09:46:20 IST" name="updating_productquantityincart" finished-at="2024-09-13T09:47:02 IST" duration-ms="41614" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updating_productquantityincart -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test10_AddRemoveProductFromCart@13e344d]" started-at="2024-09-13T09:47:02 IST" name="quit_browser" finished-at="2024-09-13T09:47:12 IST" duration-ms="10442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test10_AddRemoveProductFromCart -->
+      <class name="amazon_test.Test14_WriteReview">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test14_WriteReview@1ffaf86]" started-at="2024-09-13T09:47:12 IST" name="launch_browser" finished-at="2024-09-13T09:47:20 IST" duration-ms="8033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="write_review_for_lastorderedproduct()[pri:0, instance:amazon_test.Test14_WriteReview@1ffaf86]" started-at="2024-09-13T09:47:20 IST" name="write_review_for_lastorderedproduct" finished-at="2024-09-13T09:47:40 IST" duration-ms="20135" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- write_review_for_lastorderedproduct -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test14_WriteReview@1ffaf86]" started-at="2024-09-13T09:47:41 IST" name="quit_browser" finished-at="2024-09-13T09:47:51 IST" duration-ms="10704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test14_WriteReview -->
+      <class name="amazon_test.Test7_Verify_ProductDetailsInfo">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test7_Verify_ProductDetailsInfo@f09733f]" started-at="2024-09-13T09:40:26 IST" name="launch_browser" finished-at="2024-09-13T09:40:37 IST" duration-ms="10905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="verify_price_review_description()[pri:0, instance:amazon_test.Test7_Verify_ProductDetailsInfo@f09733f]" started-at="2024-09-13T09:40:37 IST" name="verify_price_review_description" finished-at="2024-09-13T09:40:54 IST" duration-ms="16491" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_price_review_description -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test7_Verify_ProductDetailsInfo@f09733f]" started-at="2024-09-13T09:40:54 IST" name="quit_browser" finished-at="2024-09-13T09:41:05 IST" duration-ms="10751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test7_Verify_ProductDetailsInfo -->
+      <class name="amazon_test.Test6_SearchWithFilters">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:05 IST" name="launch_browser" finished-at="2024-09-13T09:41:14 IST" duration-ms="8956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method retried="true" signature="searching_with_filters()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:14 IST" name="searching_with_filters" finished-at="2024-09-13T09:41:17 IST" duration-ms="3597" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Amazon.in : Books] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Amazon.in : Books] but found []
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at amazon_test.Test6_SearchWithFilters.searching_with_filters(Test6_SearchWithFilters.java:23)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching_with_filters -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:17 IST" name="quit_browser" finished-at="2024-09-13T09:41:28 IST" duration-ms="10410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:28 IST" name="launch_browser" finished-at="2024-09-13T09:41:39 IST" duration-ms="11175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="searching_with_filters()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:39 IST" name="searching_with_filters" finished-at="2024-09-13T09:41:44 IST" duration-ms="4740" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searching_with_filters -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test6_SearchWithFilters@e350b40]" started-at="2024-09-13T09:41:44 IST" name="quit_browser" finished-at="2024-09-13T09:41:54 IST" duration-ms="10435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test6_SearchWithFilters -->
+      <class name="amazon_test.Test13_ApplyCouponCode">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazon_test.Test13_ApplyCouponCode@4b8ee4de]" started-at="2024-09-13T09:36:42 IST" name="launch_browser" finished-at="2024-09-13T09:36:50 IST" duration-ms="8304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="applying_coupon()[pri:0, instance:amazon_test.Test13_ApplyCouponCode@4b8ee4de]" started-at="2024-09-13T09:36:50 IST" name="applying_coupon" finished-at="2024-09-13T09:37:44 IST" duration-ms="53684" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- applying_coupon -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazon_test.Test13_ApplyCouponCode@4b8ee4de]" started-at="2024-09-13T09:37:44 IST" name="quit_browser" finished-at="2024-09-13T09:37:55 IST" duration-ms="10516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazon_test.Test13_ApplyCouponCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

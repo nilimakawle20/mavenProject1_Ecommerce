@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="amazon_test.Test13_ApplzyCouponCode"/>
+      <class name="amazon_test.Test2_Login"/>
+      <class name="amazon_test.Test15_ReachCart_WithouLogin"/>
+      <class name="amazon_test.Test12_SelectEachPaymentMethod"/>
+      <class name="amazon_test.Test3_Loginwith_InvalidCredentials"/>
+      <class name="amazon_test.Test7_Verify_ProductDetailsInfo"/>
+      <class name="amazon_test.Test6_SearchWithFilters"/>
+      <class name="amazon_test.Test4_EditProfileinfo"/>
+      <class name="amazon_test.Test11_ValidateCheckout"/>
+      <class name="amazon_test.Test5_SearchProduct"/>
+      <class name="amazon_test.Test9_AddtoCart"/>
+      <class name="amazon_test.Test10_AddRemoveProductFromCart"/>
+      <class name="amazon_test.Test8_SortByFeature"/>
+      <class name="amazon_test.Test14_WriteReview"/>
+      <class name="amazon_test.Test1_Registration"/>
+      
+      <class name="utility.DDT"/>
+      <class name="utility.Listener1"/>
+      <class name="utility.RetryLogic"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
