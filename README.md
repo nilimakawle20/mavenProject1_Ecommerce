@@ -1,0 +1,1 @@
+Amazon Shopping website, an ecommerce domain testcases are automated and tested using Selenium Webdriver and TestNG framework. Used Maven as the build tool and incorporated the POM as design pattern. Executed test scripts for login, product search, cart addition, product sorting, and payment functionalities, employing data-driven testing techniques.
